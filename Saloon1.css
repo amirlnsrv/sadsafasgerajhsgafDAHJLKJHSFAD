@@ -1,0 +1,57 @@
+.Land{
+    borde: 5px solid black;
+    height: 900px;
+    weight: 500px;
+    position: center;
+    padding-left: 30px;
+    font-size: 25px;
+}
+.ter{
+    borde: 5px solid black;
+    height: 100px;
+    weight: 100px;
+    position: absolute;
+    padding-left: 850px;
+    margin-bottom: 100px;
+}
+.cer{
+    borde: 5px solid black;
+    height: 500px;
+    weight: 300px;
+    position: center;
+    margin-right: 700px;
+    font-size: 25px;
+}
+.ser{
+    border: 5px solid black;
+    height: 150px;
+    weight: 100px;
+    position: center;
+    background: orange;
+    padding-left: 400px;
+    font-size: 30px;
+}
+
+.ret{
+    font-size: 25px;
+    padding-left: 500px;
+    height: 10px;
+    weight: 500px;
+
+}
+.bad{
+    borde: 5px solid black;
+    height: 100px;
+    weight: 100px;
+    position: center;
+    padding-left: 400px;
+    font-size: 30px;
+}
+
+.dab{
+    borde: 5px solid black;
+    margig-righ: 50px;
+    height: 200px;
+    weight: 10px;
+}
+

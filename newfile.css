@@ -1,0 +1,43 @@
+h4{
+    margin-left: 12%;
+    font-weight: bold;
+    color: darkgray;
+    font-family: "Segoe Script";
+}
+.copyright {
+    text-align: left;
+    font-weight: bold;
+    font-family: URW Chancery L, cursive;
+    padding: 1% 0 0 5%;
+    background-color: gray;
+    color: lightgrey;
+}
+p{
+    animation: 1s;
+    animation-name: slidein;
+    text-transform: uppercase;
+}
+@keyframes slidein{
+    from{
+        margin-left: 100%;
+        width: 300%;
+        }
+    
+     to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
+.konec{ 
+    margin-left: 70%;
+    margin-right: 22%;
+}
+.Dostavka{
+    padding-left: 20%;
+    line-height: 0.1%;
+    
+}
+.zxcvbn{
+    padding: 0 0 0 8%;
+    margin-top: -3%
+}
